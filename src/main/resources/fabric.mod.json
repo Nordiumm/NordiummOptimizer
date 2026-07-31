@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "nordiummoptimizer",
+  "version": "${version}",
+  "name": "NordiummOptimizer",
+  "description": "",
+  "authors": ["Jessie"],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/nordiummoptimizer/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "org.nordiumm.optimizer.NordiummOptimizer"
+    ]
+  },
+  "mixins": [
+    "nordiummoptimizer.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
