@@ -4,6 +4,7 @@
   "package": "org.nordiumm.optimizer.client.mixin",
   "compatibilityLevel": "JAVA_25",
   "client": [
+    "EntityRendererMixin"
   ],
   "injectors": {
     "defaultRequire": 1
