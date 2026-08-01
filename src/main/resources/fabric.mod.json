@@ -6,7 +6,7 @@
   "description": "",
   "authors": ["Jessie"],
   "contact": {},
-  "license": "All-Rights-Reserved",
+  "license": "MIT",
   "icon": "assets/nordiummoptimizer/icon.png",
   "environment": "client",
   "entrypoints": {

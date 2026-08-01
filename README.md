@@ -115,6 +115,6 @@ If you find an issue or have an idea, feel free to open a GitHub issue.
 
 ## License
 
-This project is licensed under a custom **All Rights Reserved** license.
+This project is licensed under the MIT License.
 
-Copyright (c) 2026 Nordiumm. All rights reserved.
+Copyright (c) 2026 Nordiumm
