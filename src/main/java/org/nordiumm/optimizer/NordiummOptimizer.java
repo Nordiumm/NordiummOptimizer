@@ -1,25 +1,14 @@
 package org.nordiumm.optimizer;
 
-import net.fabricmc.api.ClientModInitializer;
-import net.fabricmc.fabric.api.client.event.lifecycle.v1.ClientTickEvents;
+import net.fabricmc.api.ModInitializer;
 
-public class NordiummOptimizer implements ClientModInitializer {
+public class NordiummOptimizer implements ModInitializer {
 
-    public static EntityOptimizer entityOptimizer;
+    public static final String MOD_ID = "nordiummoptimizer";
 
     @Override
-    public void onInitializeClient() {
+    public void onInitialize() {
 
-        entityOptimizer = new EntityOptimizer();
-
-        HudRenderer.register();
-
-        ClientTickEvents.END_CLIENT_TICK.register(client -> {
-
-            entityOptimizer.tick();
-
-        });
-
-        System.out.println("[NordiummOptimizer] Loaded!");
+        System.out.println("NordiummOptimizer loaded!");
     }
 }

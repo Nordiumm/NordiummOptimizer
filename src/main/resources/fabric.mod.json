@@ -11,7 +11,13 @@
   "environment": "client",
   "entrypoints": {
     "client": [
+      "org.nordiumm.optimizer.client.NordiummOptimizerClient"
+    ],
+    "main": [
       "org.nordiumm.optimizer.NordiummOptimizer"
+    ],
+    "modmenu": [
+      "org.nordiumm.optimizer.client.modmenu.NordiummOptimizerModMenu"
     ]
   },
   "mixins": [
@@ -20,6 +26,7 @@
   "depends": {
     "fabricloader": ">=${loader_version}",
     "fabric-api": "*",
-    "minecraft": "${minecraft_version}"
+    "minecraft": "${minecraft_version}",
+    "modmenu": "*"
   }
 }
