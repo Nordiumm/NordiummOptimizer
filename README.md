@@ -1,4 +1,3 @@
-```md
 # NordiummOptimizer
 
 ![Issues](https://img.shields.io/github/issues-raw/Nordiumm/NordiummOptimizer?color=c78aff&label=issues&style=for-the-badge)
@@ -119,4 +118,3 @@ If you find an issue or have an idea, feel free to open a GitHub issue.
 This project is licensed under a custom **All Rights Reserved** license.
 
 Copyright (c) 2026 Nordiumm. All rights reserved.
-```
