@@ -4,7 +4,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/Nordiumm/NordiummOptimizer?color=c78aff&label=last%20commit&style=for-the-badge)
 ![Commit Activity](https://img.shields.io/github/commit-activity/m/Nordiumm/NordiummOptimizer?color=c78aff&label=commits&style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Nordiumm/NordiummOptimizer?color=c78aff&label=stars&style=for-the-badge)
-![License](https://img.shields.io/github/license/Nordiumm/NordiummOptimizer?color=c78aff&style=for-the-badge)
+![License](https://img.shields.io/github/license/Nordiumm/NordiummOptimizer?color=c78aff&label=license&style=for-the-badge)
 
 A client-side Fabric optimization mod focused on improving Minecraft performance through smarter rendering and optimization systems.
 
