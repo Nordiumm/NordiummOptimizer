@@ -32,7 +32,7 @@ More features will be added over time.
 
 ## Requirements
 
-- Minecraft version: 1.21.x (update this to your exact version)
+- Minecraft version: 26.2
 - Fabric Loader
 - Fabric API
 
