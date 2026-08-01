@@ -1,5 +1,7 @@
 # NordiummOptimizer
 
+![Last Commit](https://img.shields.io/github/last-commit/Nordiumm/NordiummOptimizer?color=c78aff&label=last%20commit&style=for-the-badge)
+
 A Minecraft Fabric optimization mod focused on improving performance and exploring rendering optimizations.
 
 ## About
