@@ -47,6 +47,12 @@ public class VisibilityCache {
     }
 
     public static void clear() {
+        int size = CACHE.size();
+
         CACHE.clear();
+
+        System.out.println(
+                "[NordiummOptimizer] Cache cleared " + size + " entries"
+        );
     }
 }
